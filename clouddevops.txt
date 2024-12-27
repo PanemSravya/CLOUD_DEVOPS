@@ -1,0 +1,12 @@
+
+Cloud devops
+Amazon web services
+Tyes of amazon web services
+1)SAAS
+1)IAS
+3)platform as service
+Ec2 instance
+s3 bucket
+azure
+google cloud
+
